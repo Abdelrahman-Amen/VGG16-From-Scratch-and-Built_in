@@ -6,6 +6,8 @@ This repository implements the VGG-16 convolutional neural network for image cla
 ## VGG-16 Architecture
 VGG-16 boasts 16 layers, including 13 convolutional and 3 fully connected layers. Notably, the use of compact 3x3 convolutional filters enables the model to capture fine-grained details in images.
 
+![0_0M8CobXpNwFDCmOQ](https://github.com/Abdelrahman-Amen/VGG16-From-Scratch-and-Built_in/assets/103226865/7d3574bb-9530-463b-8b13-884832796488)
+![0_6VP81rFoLWp10FcG](https://github.com/Abdelrahman-Amen/VGG16-From-Scratch-and-Built_in/assets/103226865/ebdf0205-1501-41ee-94e6-791a03100c50)
 
 ## Model Summary
 
